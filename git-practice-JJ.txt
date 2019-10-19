@@ -1,0 +1,11 @@
+Open source
+
+
+1. folk: get a copy of a remote repo.
+2. clone: get a remote repo to local.
+3. git checkout -b name
+4. git branch 
+5. git add file
+6. git commit -m 'message'
+7. git push 
+8. git pull
